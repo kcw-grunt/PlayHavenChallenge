@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>One</string>
+		<key>urlPath</key>
+		<string>http://media.playhaven.com/challenge/Slice-1.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Two</string>
+		<key>urlPath</key>
+		<string>http://media.playhaven.com/challenge/Slice-2.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Three</string>
+		<key>urlPath</key>
+		<string>http://media.playhaven.com/challenge/Slice-3.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Four</string>
+		<key>urlPath</key>
+		<string>http://media.playhaven.com/challenge/Slice-4.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Five</string>
+		<key>urlPath</key>
+		<string>http://media.playhaven.com/challenge/Slice-5.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Six</string>
+		<key>urlPath</key>
+		<string>http://media.playhaven.com/challenge/Slice-6.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Seven</string>
+		<key>urlPath</key>
+		<string>http://media.playhaven.com/challenge/Slice-7.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Eight</string>
+		<key>urlPath</key>
+		<string>http://media.playhaven.com/challenge/Slice-8.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Nine</string>
+		<key>urlPath</key>
+		<string>http://media.playhaven.com/challenge/Slice-9.png</string>
+	</dict>
+</array>
+</plist>
